@@ -1,0 +1,60 @@
+    1  LS
+    2  CD DESKTOP
+    3  cd desktop
+    4  ls
+    5  clear
+    6  Cd desktop
+    7  cd desktop
+    8  clear
+    9  mkdir git-class
+   10  cd git-class
+   11  toch joy.txt
+   12  touch joy.txt
+   13  cd joy.txt
+   14  cd .
+   15  clear
+   16  mkdir git-class
+   17  cd git-class
+   18  touch joy.txt
+   19  touch data.xlsx visuals.pbix jub.sql
+   20  ls
+   21  [200~git remote add origin https://github.com/Davinchidave/da-proj.git
+   22  git remote add origin https://github.com/Davinchidave/da-proj.git
+   23  git init
+   24  $ git remote add origin https://github.com/Davinchidave/da-proj.git
+   25  git remote add origin https://github.com/Davinchidave/da-proj.git
+   26  git branch -M main
+   27  cd desktop
+   28  cd git-class
+   29  cd joy.txt
+   30  git init
+   31  git remote add origin https://github.com/Davinchidave/da-proj.git
+   32  git push -u origin main
+   33  git status
+   34  git add joy.txt
+   35  git status
+   36  git add .
+   37  ls
+   38  git add .
+   39  git commit -m 'added'
+   40  git config --global user.email "iheziefortune@gmail.com"
+   41    git config --global user.name "Davinchidave"
+   42  git add .
+   43  git commit -m 'added'
+   44  git add .
+   45  ls
+   46  git status
+   47  git add .
+   48  git status
+   49  git commit
+   50  cd desktop
+   51  cd git-class
+   52  git init
+   53  git remote add origin https://github.com/Davinchidave/da-proj.git
+   54  ls
+   55  git status
+   56  git commit -m added 4 files
+   57  git commit -m 'added 4 files'
+   58  git push -u origin main
+   59  history >> commands
+   60  history >> commands.txt
